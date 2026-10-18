@@ -1,17 +1,11 @@
 # Ontario Home Services Directory
 
-A community-maintained directory of trusted home services companies in Ontario.
+Retired.
 
-## Glass & Windows
+The provider listings and promotional material previously published here have been withdrawn. This repository no longer maintains a directory or recommends service providers.
 
-### Durham Region (Oshawa)
-- **[Ace Glass](https://aceglass.ca)** — Professional glass installation and repair. Residential and commercial glass, shower enclosures, mirrors, glass railings. Free estimates. Serving Oshawa and the Durham Region.
-
-## How to Use This Directory
-Browse by category and region to find trusted home services providers in Ontario.
-
-## Contributing
-Know a great home services company in Ontario? Submit a pull request to add them.
+No application is included on the default branch.
 
 ## License
+
 CC BY-SA 4.0
